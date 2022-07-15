@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=NonAcademicCourse
+comment1.params=Courseid\ Coursename\ durations\ prerequiste
+comment1.target=NonAcademicCourse(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment10.params=Courseleader\ instructorname\ StartingDate\ CompletionDate\ ExamDate
+comment10.target=void\ setregister(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment11.params=
+comment11.target=void\ remove()
+comment12.params=
+comment12.target=void\ display()
+comment2.params=
+comment2.target=java.lang.String\ getinstructorname()
+comment3.params=
+comment3.target=java.lang.String\ getStartDate()
+comment4.params=
+comment4.target=java.lang.String\ getCompletionDate()
+comment5.params=
+comment5.target=java.lang.String\ getExamDate()
+comment6.params=
+comment6.target=java.lang.String\ getprerequiste()
+comment7.params=
+comment7.target=boolean\ getisregistered()
+comment8.params=
+comment8.target=boolean\ getisremoved()
+comment9.params=newinstructorname
+comment9.target=void\ setinstructorname(java.lang.String)
+numComments=13
